@@ -19,7 +19,7 @@ Dashboard ini menyajikan:
 Aplikasi ini telah berhasil dideploy menggunakan **Streamlit Community Cloud**  
 dan dapat diakses melalui link berikut:
 
-🔗 **[Lihat Dashboard](https://submissiondahsboard.streamlit.app/)**
+🔗 **[Lihat Dashboard](https://dashboard-sumission-bike-sharing.streamlit.app/)**
 
 ---
 
